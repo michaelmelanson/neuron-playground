@@ -1,8 +1,8 @@
 
 # Neuron model playground
 
-This is an implementation of a Hindmarsh-Rose neuron model as
-described by (Steur, 2006).
+This is an implementation of a Hindmarsh-Rose neuron model, with the
+parameterization described in (Steur, 2006).
 
 It uses the GNU Scientific Library for numeric integration, ZeroMQ for
 internal messaging and pthread for threading.
