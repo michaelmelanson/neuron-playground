@@ -1,0 +1,12 @@
+
+
+  params.a	= 1;
+  params.b	= 4;
+  params.c	= 1;
+  params.d	= 6;
+  params.beta	= 1;
+  params.r	= 0.01;
+  params.s	= 1;
+  params.x_0    = -1.5;
+  params.T_s	= 1;
+  params.I_t	= I_t;
